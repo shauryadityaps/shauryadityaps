@@ -18,7 +18,4 @@ I am a student who is obsessed with tech and the way things work.<br>I am an AI 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=shauryadityaps&icon=4&color=6)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
